@@ -29,8 +29,10 @@ how to initialize github project
 <hr>
 
 
+
+....python
 def add(a,b)
-print("the addition of a and b is:")
+  print("the addition of a and b is:")
 add(3,4)
 .......
 
