@@ -19,5 +19,20 @@ good morning,this is mca class welcome to mca class
 [apssdc](HTTP:||APSSDC.com)
 [SACET](HTTP:||SACET.com)
 :smile:
-how to initialize hithub project
-:crying:
+<hr>
+
+
+how to initialize github project
+- [] git add .
+- [] git remote
+- [] git push
+
+
+
+
+
+
+
+
+
+
