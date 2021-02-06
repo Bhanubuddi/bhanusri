@@ -26,7 +26,13 @@ how to initialize github project
 - [] git add .
 - [] git remote
 - [] git push
+<hr>
 
+
+def add(a,b)
+print("the addition of a and b is:")
+add(3,4)
+.......
 
 
 
